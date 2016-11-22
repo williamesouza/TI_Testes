@@ -1,0 +1,8 @@
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia10\Academia\UnitTestProjectAcademia\obj\Debug\UnitTestProjectAcademia.csprojResolveAssemblyReference.cache
+E:\PUC\2016_2P\Disciplinas\Testes\TI Testes\Academia11\Academia\UnitTestProjectAcademia\obj\Debug\UnitTestProjectAcademia.csprojResolveAssemblyReference.cache
+E:\PUC\2016_2P\Disciplinas\Testes\TI Testes\Academia11\Academia\UnitTestProjectAcademia\bin\Debug\UnitTestProjectAcademia.dll
+E:\PUC\2016_2P\Disciplinas\Testes\TI Testes\Academia11\Academia\UnitTestProjectAcademia\bin\Debug\UnitTestProjectAcademia.pdb
+E:\PUC\2016_2P\Disciplinas\Testes\TI Testes\Academia11\Academia\UnitTestProjectAcademia\bin\Debug\Academia.exe
+E:\PUC\2016_2P\Disciplinas\Testes\TI Testes\Academia11\Academia\UnitTestProjectAcademia\bin\Debug\Academia.pdb
+E:\PUC\2016_2P\Disciplinas\Testes\TI Testes\Academia11\Academia\UnitTestProjectAcademia\obj\Debug\UnitTestProjectAcademia.dll
+E:\PUC\2016_2P\Disciplinas\Testes\TI Testes\Academia11\Academia\UnitTestProjectAcademia\obj\Debug\UnitTestProjectAcademia.pdb
