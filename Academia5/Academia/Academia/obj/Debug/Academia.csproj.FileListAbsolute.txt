@@ -1,0 +1,27 @@
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\bin\Debug\Academia.exe.config
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\bin\Debug\Academia.exe
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\bin\Debug\Academia.pdb
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\obj\Debug\Academia.Form1.resources
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\obj\Debug\Academia.exe
+E:\puc\2016_2P\disciplinas\Testes\Trabalhos\Academia\Academia\obj\Debug\Academia.pdb
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\bin\Debug\Academia.exe.config
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\obj\Debug\Academia.exe
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\obj\Debug\Academia.pdb
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\bin\Debug\Academia.exe
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\bin\Debug\Academia.pdb
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\obj\Debug\Academia.Form1.resources
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+E:\PUC\2016_2P\Disciplinas\Testes\TI\Academia2\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\bin\Debug\Academia.exe.config
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\obj\Debug\Academia.exe
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\obj\Debug\Academia.pdb
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\bin\Debug\Academia.exe
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\bin\Debug\Academia.pdb
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\obj\Debug\Academia.csprojResolveAssemblyReference.cache
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\obj\Debug\Academia.Form1.resources
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+E:\puc\2016_2P\disciplinas\Testes\TI Testes\Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.Cache
